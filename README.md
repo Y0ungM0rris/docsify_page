@@ -12,7 +12,7 @@
 ```
 https://ссылка на развёрнутую docsify страницу/README.md
 ```
-Пример:
+__Пример:__
 ```
 https://y0ungm0rris.github.io/docsify_page/README.md
 ```
