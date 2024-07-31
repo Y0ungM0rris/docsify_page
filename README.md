@@ -17,7 +17,7 @@ https://ссылка на развёрнутую docsify страницу/README
 https://y0ungm0rris.github.io/docsify_page/README.md
 ```
 #### __Код парсера:__
-```dart
+```
 var link = Uri.tryParse('ссылка на документ');
 
 FutureBuilder<http.Response>
@@ -32,6 +32,4 @@ FutureBuilder<http.Response>
                       }
                       return const CircularProgressIndicator();
                     }
-                )
-```
-### ВСЁ
+                )```
