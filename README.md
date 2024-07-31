@@ -16,7 +16,7 @@ https://ссылка на развёрнутую docsify страницу/README
 ```
 https://y0ungm0rris.github.io/docsify_page/README.md
 ```
-#### __Код парсера можно взять ниже или по ссылке в примере:__
+#### __Код парсера:__
 ```dart
 var link = Uri.tryParse('ссылка на документ');
 
